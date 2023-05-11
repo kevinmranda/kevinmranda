@@ -33,8 +33,7 @@ Java
 Livewire
 Android Applications
 
-🏎️ When I'm not coding
-When I'm not busy developing web applications, you can find me indulging in my other passion: racing. I am a racing enthusiast and love everything about the sport, from the adrenaline rush of high-speed driving to the precision and strategy required to win races. I believe that the same level of focus and dedication required to excel in racing can be applied to web development, and I strive to bring that same level of excellence to all of my projects.
+🏎️ When I'm not developing web applications, you can find me indulging in my other passion: racing. I am a racing enthusiast and love everything about the sport, from the adrenaline rush of high-speed driving to the precision and strategy required to win races. I believe that the same level of focus and dedication required to excel in racing can be applied to web development, and I strive to bring that same level of excellence to all of my projects.
 
 Feel free to explore my repository and projects. I'm always looking for new and exciting opportunities to challenge my skills and create innovative solutions.
 
