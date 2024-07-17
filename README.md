@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 👋 Hello!
-I am a full stack web developer with a specialization in **Laravel** a PHP framework. I create scalable, robust, and user-friendly web applications. My skills include **HTML5, CSS, Bootstrap, JavaScript, Java, PHP, and MySQL**, among others. I have a keen eye for design and a passion for creating elegant and efficient solutions.
+I am a full stack web developer with a specialization in **Laravel** a PHP framework. I create scalable, robust, and user-friendly web applications. My skills include **HTML5, CSS, Bootstrap, JavaScript, Java, PHP, C#, and MySQL**, among others. I have a keen eye for design and a passion for creating elegant and efficient solutions.
 
 ## 👨‍💻 Specializations
 - :computer: HTML5
