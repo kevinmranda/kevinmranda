@@ -5,8 +5,6 @@ I am a full stack web developer with a specialization in **Laravel**, a PHP fram
 
 ## 👨‍💻 Specializations
 - 💻 Asp.Net
-- ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square) Go
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) React
 - ☕ Java
 - 🐘 PHP
 - 🌐 Computer Networking
