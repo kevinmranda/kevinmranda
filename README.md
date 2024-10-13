@@ -7,8 +7,8 @@ I am a full stack web developer with a specialization in Go Programming Language
 - ![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?logo=.net&logoColor=white&style=flat-square) 
 - ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square) 
 - ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square)
-- 🐘 PHP
-- 🌐 Computer Networking
+- 🐘![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square)
+- ![Computer Networking](https://img.shields.io/badge/-Computer%20Networking-0A66C2?logo=internet-explorer&logoColor=white&style=flat-square)
 
 ## 🔭 I’m currently working on 
 + ClickMaster App
